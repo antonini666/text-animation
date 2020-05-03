@@ -1,1 +1,1 @@
-# text-animation
+# Gradient Text Animation
